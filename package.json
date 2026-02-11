@@ -1,0 +1,19 @@
+{
+  "name": "compile-sass",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Marijan Raicevic",
+  "type": "commonjs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp",
+    "watch": "gulp watch"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.97.2"
+  }
+}
