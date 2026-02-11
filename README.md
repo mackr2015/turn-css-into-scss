@@ -13,3 +13,9 @@
 
 - install all packages from package.json run `npm i`
 - gulpfile.js has all functionality for scss compiler and browser live reload using browser-sync
+
+
+## Practice - turn css to scss and setup live reload page for PHP, Html and SCSS
+
+- once the css/style.css is transform into main.scss delete this file
+- page live reload and scss compiler has been setup
